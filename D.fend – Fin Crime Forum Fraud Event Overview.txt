@@ -1,0 +1,68 @@
+D.fend – Fin Crime Forum Fraud Landscape Survey / Fraud Event Overview
+Project Overview
+
+Deloitte is conducting a market survey to support the upcoming D.fend – Fin Crime Forum, a fraud-focused event bringing together senior leaders across banking and insurance to discuss emerging fraud risks, industry trends, operational challenges, and leading practices.
+
+The survey is intended to generate quantitative market insights that will:
+
+Inform event agenda development and discussion topics.
+Identify the issues most relevant to fraud leaders today.
+Benchmark current industry practices and future priorities.
+Provide data-driven insights that can be incorporated into presentations, breakout sessions, and executive discussions.
+Potentially support future Deloitte thought leadership and points of view (POVs).
+
+Target Audience
+
+The survey targets approximately 100 senior fraud leaders globally, including:
+
+Banking:
+Retail Banks
+Commercial / Corporate Banks
+Digital Banks
+Credit Unions / Cooperatives
+Payment Service Providers (PSPs)
+
+Insurance:
+Property & Casualty Insurers
+Life & Health Insurers
+Reinsurers
+Multi-line Insurers
+
+Respondent Profile:
+Senior Manager and above
+Fraud Risk Management
+Fraud Operations
+Fraud Strategy & Transformation
+Fraud Governance
+Fraud Analytics / Intelligence
+Special Investigations Unit (SIU)
+Fraud Investigation Functions
+
+Target respondent mix:
+
+~75% Banking
+~25% Insurance
+Key Research Objectives
+
+The survey seeks to understand 5 overarching topics:
+
+1. Deepfake and Emerging Fraud Risks
+Where organizations are experiencing the greatest deepfake-related vulnerabilities.
+Key challenges preventing effective deepfake detection and mitigation.
+2. Fraud Information Sharing
+Barriers preventing effective information sharing.
+Government and industry actions that could improve collaboration.
+Industry appetite for greater data sharing and consortium models.
+3. Third-Party Fraud Risk
+Which third parties currently create the greatest fraud exposure.
+How organizations plan to reduce third-party fraud risk in the future.
+4. Fraud Operating Model Transformation
+How organizations are scaling fraud operations today.
+The role of automation, AI, outsourcing, and process redesign.
+Future operational transformation priorities.
+5. Regulatory and Market Change
+How regulatory requirements are influencing fraud investment.
+Which upcoming changes are expected to most significantly impact fraud programs.
+
+
+The survey should provide a data-driven view of how leading financial institutions and insurers are responding to a rapidly evolving fraud landscape and help shape meaningful discussions at the D.fend – Fin Crime Forum around the future of fraud risk management.
